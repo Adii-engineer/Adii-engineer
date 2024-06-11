@@ -25,12 +25,15 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **adityayadav474@gmail.com**
 
+- ⚡ Fun fact **I'm passionately curious**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-singh-yadav-747081233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-singh-yadav-747081233/" height="30" width="40" /></a>
 <a href="https://kaggle.com/adityayadav474" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="adityayadav474" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/shakuntala.yadav.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shakuntala.yadav.733" height="30" width="40" /></a>
 <a href="https://instagram.com/shinrra_tensei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinrra_tensei" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hypothetical baba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hypothetical baba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@aadii_forever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@aadii_forever" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
