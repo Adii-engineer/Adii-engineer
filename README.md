@@ -1,4 +1,4 @@
-![logo](https://github.com/Adii-engineer/Adii-engineer/blob/main/699e4762225981.5a89af14d87a9.gif)
+![logo](https://github.com/Adii-engineer/Adii-engineer/blob/main/699e4762225981.5a89af14d87a9-ezgif.com-resize.gif)
 
 <!--
 **Adii-engineer/Adii-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
