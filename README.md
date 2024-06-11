@@ -1,4 +1,4 @@
-![logo](https://github.com/Adii-engineer/Adii-engineer/blob/main/RESIZED_IOE-Masters_-Data-Analytics-and-Applied-Statistics.jpg)
+![logo](https://github.com/Adii-engineer/Adii-engineer/blob/main/699e4762225981.5a89af14d87a9.gif)
 
 <!--
 **Adii-engineer/Adii-engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeepnote.com%2Fapp%2Fchristopher-hui%2FExcel-to-Pandas-dfc2ecf1-98f2-467e-a86d-a0ce273a9bae&psig=AOvVaw2q6HETpap0K2xNtcUgEmv-&ust=1718187919406000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMitnvmq04YDFQAAAAAdAAAAABAx" >
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/8619169/screenshots/16116886/media/a63d64bcccad878cb9dfdb9a9f6b6416.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adii-engineer&label=Profile%20views&color=0e75b6&style=flat" alt="adii-engineer" /> </p>
 
